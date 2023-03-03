@@ -7,10 +7,10 @@ metatype: json
   "name": "Pure Black",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Pure black theme for Standard Notes. Fork of https://github.com/christianhans/sn-pure-black-theme",
-  "url": "https://cdn.jsdelivr.net/gh/andryou/sn-pure-black-theme@1.0.11/dist/dist.css",
-  "download_url": "https://github.com/andryou/sn-pure-black-theme/archive/1.0.11.zip",
+  "url": "https://cdn.jsdelivr.net/gh/andryou/sn-pure-black-theme@1.0.12/dist/dist.css",
+  "download_url": "https://github.com/andryou/sn-pure-black-theme/archive/1.0.12.zip",
   "latest_url": "https://listed.to/p/OKLNXDrC2o",
   "marketing_url": "https://github.com/andryou/sn-pure-black-theme",
   "dock_icon": {
@@ -18,5 +18,6 @@ metatype: json
      "background_color": "#0C84FE",
      "foreground_color": "#0C84FE",
      "border_color": "#0C84FE"
-  }
+  },
+  "statusBar": "dark-content"
 }
