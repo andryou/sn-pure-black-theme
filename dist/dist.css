@@ -47,6 +47,7 @@
   --sn-stylekit-scrollbar-thumb-color: var(--gray2); /* scroll bar */
   /* --sn-stylekit-scrollbar-track-border-color: var(--red); no effect */
   /* --sn-stylekit-grey-5: var(--red); no effect */
+  --sn-stylekit-passive-color-3: var(--black); /* menu on hover */
   --sn-stylekit-passive-color-5: var(--black); /* auth screen bg */
   --navigation-item-selected-background-color: var(--black); /* left sidebar item select/hover bg */
 }
